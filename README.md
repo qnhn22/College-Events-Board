@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *College Events Board*
 
 Submitted by: **Quan Nhat Nguyen**
 
-This web app: **College Events Board**
+This web app: **Provide Information about Incoming College Events**
 
 Time spent: **3** hours spent in total
 
