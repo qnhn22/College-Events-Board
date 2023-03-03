@@ -1,10 +1,9 @@
 import React from 'react'
 import Post from './Post'
-import './Board.css'
 
 const Board = () => {
     return (
-        <div className='container'>
+        <div className='post-container'>
             <Post image='https://plus.unsplash.com/premium_photo-1661777201645-373151abcc8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80' title='Pilates' category='Practice' location='Memorial Hall' link='https://www.youtube.com/watch?v=f9UbVRqd9YY' />
             <Post image='https://plus.unsplash.com/premium_photo-1674681215329-01067f49a38c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80' title='Infernos Rehearsal' category='Music' location='S. College Room 6' link='' />
             <Post image='https://images.unsplash.com/photo-1672709914290-9280b3356135?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80' title='Study Hours' category='Academic' location='Kaufman Hall Room 179' link='' />
