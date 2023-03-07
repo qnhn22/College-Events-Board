@@ -1,26 +1,8 @@
-# Web Development Project 1 - *College Events Board*
-
-Submitted by: **Quan Nhat Nguyen**
+# *College Events Board*
 
 This web app: **Provide Information about Incoming College Events**
 
 Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
-
-The following **optional** features are implemented:
-
-- [x] Buttons or links to a related resources are on each card component
-- [x] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
